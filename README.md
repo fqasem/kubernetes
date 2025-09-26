@@ -1,2 +1,2 @@
 # kubernetes
-Project showing Kubernetes helm charts.
+Project showing Kubernetes deployment.
