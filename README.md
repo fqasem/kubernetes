@@ -1,5 +1,5 @@
 # kubernetes
-Project showing Kubernetes architecture.
+Project showing Kubernetes architecture. Taken from https://github.com/sidpalas/devops-directive-kubernetes-course.
 
 # Technology Overview
 
